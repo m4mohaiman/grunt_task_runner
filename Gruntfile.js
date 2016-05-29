@@ -1,3 +1,10 @@
+/*
+  "Discription":"Grunt File quick use",
+  "Author":"Mohammad A. Mohaiman",
+  "Develop":"Mad Dev BD",
+*/
+
+
 module.exports = function(grunt){
     
   //configure main project settings
